@@ -11,5 +11,6 @@ gem 'jquery-rails'
 gem 'haml'
 gem 'omniauth-twitter'
 gem 'omniauth-facebook'
+gem 'omniauth-github'
 
 gem 'spring', group: :development
